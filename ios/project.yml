@@ -1,4 +1,4 @@
-name: FibraApp_v1.8
+name: FibraApp
 options:
   bundleIdPrefix: com.projeto
 targets:
